@@ -415,6 +415,14 @@ footer {
     .book {
         width: 50%;
     }
+
+    #highlights:after { 
+        background: none;
+}
+
+    #highlights:before { 
+        background: none;
+}
 }
 
 
